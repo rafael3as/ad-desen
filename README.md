@@ -1,3 +1,3 @@
 INTEGRANTES:
 Rafael Andrade Simião,
-Cauã Matelli
+Cauã Matelli Janizelo
